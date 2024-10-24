@@ -57,8 +57,8 @@ After displaying the minimum values, the program terminates, ensuring that all d
 
 ### Prerequisites
 
-- C++ Compiler: Ensure you have a C++ compiler installed (e.g., g++).
-- Code Editor or IDE: Use any editor or IDE that supports C++ (e.g., Visual Studio Code, CLion, Code::Blocks).
+- **C++ Compiler:** Ensure you have a C++ compiler installed (e.g., g++).
+- **Code Editor or IDE:** Use any editor or IDE that supports C++ (e.g., Visual Studio Code, CLion, Code::Blocks).
 
 ### Compilation
 
